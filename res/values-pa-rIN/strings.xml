@@ -54,7 +54,7 @@
     <string name="confirm_delete_video_message" msgid="800016540763376529">"ਕੀ ਇਹ ਵੀਡੀਓ ਮਿਟਾਉਣਾ ਹੈ?"</string>
     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"ਕੀ ਇਹ ਮੀਡੀਆ ਫਾਈਲਾਂ ਮਿਟਾਉਣੀਆਂ ਹਨ?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"ਮਿਟਾਓ"</string>
-    <string name="camera_share" msgid="8207701858325694182">"ਸ਼ੇਅਰ ਕਰੋ"</string>
+    <string name="camera_share" msgid="8207701858325694182">"ਸਾਂਝਾ ਕਰੋ"</string>
     <string name="camera_set" msgid="3422192914806971182">"ਇਸਦੇ ਤੌਰ ਤੇ ਸੈੱਟ ਕਰੋ"</string>
     <string name="camera_play" msgid="8248000517869959980">"ਪਲੇ ਕਰੋ"</string>
     <string name="camera_attach" msgid="4048659554893435232">"ਅਟੈਚ ਕਰੋ"</string>
@@ -110,7 +110,7 @@
     <string name="no_location_image" msgid="8907867717568887559">"ਇਸ ਚਿੱਤਰ ਵਿੱਚ ਕੋਈ ਟਿਕਾਣਾ ਜਾਣਕਾਰੀ ਸਟੋਰ ਨਹੀਂ ਕੀਤੀ ਗਈ ਹੈ।"</string>
     <string name="details_panel_title" msgid="4753347516759338122">"ਵੇਰਵੇ"</string>
     <string name="details_file_size" msgid="2468878774843246797">"ਫਾਈਲ ਆਕਾਰ:"</string>
-    <string name="details_image_resolution" msgid="8773315928100529437">"ਰਿਜ਼ੋਲੂਸ਼ਨ:"</string>
+    <string name="details_image_resolution" msgid="8773315928100529437">"ਰੈਜ਼ੋਲਿਊਸ਼ਨ:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"ਨਿਰਮਾਤਾ:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"ਮਾਡਲ:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"WhiteBalance:"</string>
@@ -137,10 +137,10 @@
     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"ਤਸਵੀਰ ਚੁਣੋ"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"ਗੈਲਰੀ"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"ਵੀਡੀਓ ਚੁਣੋ"</string>
-    <string name="sendImage" msgid="7279510542799399570">"ਇਸ ਰਾਹੀਂ ਤਸਵੀਰ ਸ਼ੇਅਰ ਕਰੋ"</string>
+    <string name="sendImage" msgid="7279510542799399570">"ਇਸ ਰਾਹੀਂ ਤਸਵੀਰ ਸਾਂਝਾ ਕਰੋ"</string>
     <string name="setImage" msgid="7246975856983303047">"ਇਸਦੇ ਤੌਰ ਤੇ ਤਸਵੀਰ ਸੈੱਟ ਕਰੋ"</string>
-    <string name="sendVideo" msgid="3598567735831863073">"ਇਸ ਰਾਹੀਂ ਵੀਡੀਓ ਸ਼ੇਅਰ ਕਰੋ"</string>
-    <string name="send_media_files" msgid="8201083279723850611">"ਇਸ ਰਾਹੀਂ ਮੀਡੀਆ ਫਾਈਲਾਂ ਸ਼ੇਅਰ ਕਰੋ"</string>
+    <string name="sendVideo" msgid="3598567735831863073">"ਇਸ ਰਾਹੀਂ ਵੀਡੀਓ ਸਾਂਝਾ ਕਰੋ"</string>
+    <string name="send_media_files" msgid="8201083279723850611">"ਇਸ ਰਾਹੀਂ ਮੀਡੀਆ ਫਾਈਲਾਂ ਸਾਂਝਾ ਕਰੋ"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"ਮੂਵੀਜ਼"</string>
     <string name="loading_video" msgid="4013492720121891585">"ਵੀਡੀਓ ਲੋਡ ਕਰ ਰਿਹਾ ਹੈ…"</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"ਵੀਡੀਓ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰੋ"</string>
@@ -150,7 +150,7 @@
     <string name="gadget_title" msgid="259405922673466798">"ਤਸਵੀਰ ਫ੍ਰੇਮ"</string>
     <string name="file_info_title" msgid="1628963357466012538">"ਫਾਈਲ ਜਾਣਕਾਰੀ:"</string>
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"ਜੋ ਵੀਡਿਆ ਤੁਸੀਂ ਰਿਕਾਰਡ ਕੀਤਾ ਹੈ, ਉਹ MMS ਰਾਹੀਂ ਭੇਜਣ ਲਈ ਬਹੁਤ ਜ਼ਿਆਦਾ ਵੱਡਾ ਹੈ। ਇੱਕ ਛੋਟੀ ਲੰਮਾਈ ਦੀ ਕਲਿਪ ਰਿਕਾਰਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
-    <string name="multiselect_share" msgid="5261644537749253581">"ਸ਼ੇਅਰ ਕਰੋ"</string>
+    <string name="multiselect_share" msgid="5261644537749253581">"ਸਾਂਝਾ ਕਰੋ"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"ਮਿਟਾਓ"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"ਰੱਦ ਕਰੋ"</string>
     <string name="delete_images_message" msgid="2332683687700452577">"ਚਿੱਤਰ ਮਿਟਾ ਰਿਹਾ ਹੈ…"</string>
