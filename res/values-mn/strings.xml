@@ -142,7 +142,7 @@
     <string name="sendVideo" msgid="3598567735831863073">"Видеог хуваалцах"</string>
     <string name="send_media_files" msgid="8201083279723850611">"Медиа файлыг хуваалцах"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Кино"</string>
-    <string name="loading_video" msgid="4013492720121891585">"Видеог ачааллаж байна…"</string>
+    <string name="loading_video" msgid="4013492720121891585">"Видеог ачаалж байна…"</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Видеог үргэлжлүүлэх"</string>
     <string name="resume_playing_message" msgid="8480340146814638566">"Видеог <xliff:g id="DURATION">%s</xliff:g>-с үргэлжлүүлэн тоглуулах уу?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Үргэлжлүүлэн тоглуулах"</string>
