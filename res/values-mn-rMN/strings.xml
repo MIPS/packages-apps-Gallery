@@ -129,7 +129,7 @@
     <string name="details_fps" msgid="5450871169477340537">"<xliff:g id="FRAMES">%1$d</xliff:g> fps"</string>
     <string name="details_kbps" msgid="1515369011744784592">"<xliff:g id="SPEED">%1$d</xliff:g> Kbps"</string>
     <string name="details_mbps" msgid="3291428849607323284">"<xliff:g id="SPEED">%1$g</xliff:g> Mbps"</string>
-    <string name="details_ok" msgid="6848594369924424312">"Тийм"</string>
+    <string name="details_ok" msgid="6848594369924424312">"OK"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"Зургийн сонголт"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"Видео сонголт"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"Эхлэх бол нүүрэнд хүрнэ үү."</string>
@@ -142,7 +142,7 @@
     <string name="sendVideo" msgid="3598567735831863073">"Видеог хуваалцах"</string>
     <string name="send_media_files" msgid="8201083279723850611">"Медиа файлыг хуваалцах"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Кино"</string>
-    <string name="loading_video" msgid="4013492720121891585">"Видеог ачааллаж байна…"</string>
+    <string name="loading_video" msgid="4013492720121891585">"Видеог ачаалж байна…"</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Видеог үргэлжлүүлэх"</string>
     <string name="resume_playing_message" msgid="8480340146814638566">"Видеог <xliff:g id="DURATION">%s</xliff:g>-с үргэлжлүүлэн тоглуулах уу?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Үргэлжлүүлэн тоглуулах"</string>
