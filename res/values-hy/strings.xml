@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="all_images" msgid="1195501551939178807">"Բոլոր լուսանկարները"</string>
     <string name="all_videos" msgid="3380966619230896013">"Բոլոր տեսանյութերը"</string>
-    <string name="camera_label" msgid="6346560772074764302">"Ֆոտոխցիկ"</string>
+    <string name="camera_label" msgid="6346560772074764302">"Տեսախցիկ"</string>
     <string name="gallery_picker_label" msgid="3080425245006492787">"Պատկերասրահ"</string>
     <string name="gallery_label" msgid="7119609703856708011">"Պատկերասրահ"</string>
     <string name="gallery_camera_bucket_name" msgid="2924618424339240831">"Ֆոտոխցիկի լուսանկարներ"</string>
