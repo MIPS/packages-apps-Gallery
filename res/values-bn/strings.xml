@@ -55,7 +55,7 @@
     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"এই মিডিয়া ফাইলগুলি মুছবেন?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"মুছুন"</string>
     <string name="camera_share" msgid="8207701858325694182">"শেয়ার করুন"</string>
-    <string name="camera_set" msgid="3422192914806971182">"হিসাবে সেট করুন"</string>
+    <string name="camera_set" msgid="3422192914806971182">"হিসেবে সেট করুন"</string>
     <string name="camera_play" msgid="8248000517869959980">"প্লে করুন"</string>
     <string name="camera_attach" msgid="4048659554893435232">"সংযুক্ত করুন"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"বাতিল"</string>
@@ -138,7 +138,7 @@
     <string name="videos_gallery_title" msgid="6150354029982749479">"গ্যালারি"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"ভিডিও বেছে নিন"</string>
     <string name="sendImage" msgid="7279510542799399570">"এর মাধ্যমে ছবি শেয়ার করুন"</string>
-    <string name="setImage" msgid="7246975856983303047">"এই হিসাবে ছবি সেট করুন"</string>
+    <string name="setImage" msgid="7246975856983303047">"এই হিসেবে ছবি সেট করুন"</string>
     <string name="sendVideo" msgid="3598567735831863073">"এর মাধ্যমে ভিডিও শেয়ার করুন"</string>
     <string name="send_media_files" msgid="8201083279723850611">"এর মাধ্যমে মিডিয়া ফাইল শেয়ার করুন"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"চলচ্চিত্রগুলি"</string>
