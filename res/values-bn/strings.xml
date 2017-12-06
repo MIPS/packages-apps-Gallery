@@ -39,7 +39,7 @@
     <string name="runningFaceDetection" msgid="2293932204708167704">"দয়া করে অপেক্ষা করুন..."</string>
     <string name="view" msgid="6277795271119411881">"দেখুন"</string>
     <string name="details" msgid="8415120088556445230">"বিশদ বিবরণ"</string>
-    <string name="show_on_map" msgid="441725587731006228">"মানচিত্রে দেখান"</string>
+    <string name="show_on_map" msgid="441725587731006228">"ম্যাপে দেখান"</string>
     <string name="rotate" msgid="460017689320955494">"ঘোরান"</string>
     <string name="rotate_left" msgid="5888273317282539839">"বামদিকে ঘোরান"</string>
     <string name="rotate_right" msgid="6776325835923384839">"ডানদিকে ঘোরান"</string>
